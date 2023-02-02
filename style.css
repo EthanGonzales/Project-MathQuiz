@@ -1,7 +1,6 @@
 body
 {
-	color: white;
-	background-image: linear-gradient(235deg,red,rgb(181, 39, 39),rgb(87, 36, 36));
+	color: black;
 }
 
 	.login_div1 , .login_div2
@@ -16,9 +15,10 @@ body
 #player1_name , #player2_name
 {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 40px;
+	color:black
 }
-#word
+#number1, #number2
 {
 	width: 60%;
 }
